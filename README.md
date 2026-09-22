@@ -9,6 +9,8 @@ pip install biopython
 
 Cd to your folder with all assets.
 
+Update your Alleles A and B to compare
+
 Run this command
 
 python compare_alleles.py allele_A.fasta allele_B.fasta
